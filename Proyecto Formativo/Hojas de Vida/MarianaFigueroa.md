@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
- !(mifoto)[https://photos.app.goo.gl/DeRfJ5WshuokErt6A] 
+ !(Mi foto)[Proyecto Formativo/Hojas de vida/Imagenes/MarianaFi.png] 
 
 ## **DATOS PERSONALES**
 

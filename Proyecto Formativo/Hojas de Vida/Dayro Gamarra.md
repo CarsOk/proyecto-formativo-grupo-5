@@ -1,5 +1,7 @@
-![Mi foto](https://i.ibb.co/84B3XhL/Foto-Dayro.jpg)
 ## Hoja De Vida ##
+
+![Mi foto](Proyecto Formativo/Hojas de vida/Imagenes/DayroGa.png)
+
 ## Datos Personales
 ###### Nombres y Apellidos:      Dayro Andres Gamarra Vergara 
 ###### Lugar y Fecha De Nacimiento:  Barranquilla /Atlantico 08/27/2001

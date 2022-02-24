@@ -1,6 +1,6 @@
 ## HOJA DE VIDA
 
-![Mi foto](https://lh3.google.com/u/0/d/1hSmjpBNEHU__PrVM5SkdnF9XZSfZx-al=w1366-h657-iv1)
+![Mi foto](Proyecto Formativo/Hojas de vida/Imagenes/FernandoCa.png)
 
 ## DATOS PERSONALES
 #### NOMBRES Y APELLIDOS:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFernando Jose Castro Meza
