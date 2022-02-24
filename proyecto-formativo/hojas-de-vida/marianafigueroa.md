@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
- !(Mi foto)[Proyecto Formativo/Hojas de vida/Imagenes/MarianaFi.png] 
+ !(Mi foto)[imagenes/marianafi.png] 
 
 ## **DATOS PERSONALES**
 
