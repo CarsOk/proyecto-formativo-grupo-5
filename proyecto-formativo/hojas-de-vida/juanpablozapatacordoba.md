@@ -1,6 +1,6 @@
 ## HOJA DE VIDA
 
-![Mi foto](Proyecto Formativo/Hojas de vida/Imagenes/JuanZa.png)
+![Mi foto](imagenes/juanza.png)
 
 ## DATOS PERSONALES
 #### NOMBRES Y APELLIDOS:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤJuan Pablo Zapata Cordoba 

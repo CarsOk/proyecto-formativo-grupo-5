@@ -1,6 +1,6 @@
 ## Hoja De Vida ##
 
-![Mi foto](Proyecto Formativo/Hojas de vida/Imagenes/DayroGa.png)
+![Mi foto](imagenes/dayroga.png)
 
 ## Datos Personales
 ###### Nombres y Apellidos:      Dayro Andres Gamarra Vergara 
