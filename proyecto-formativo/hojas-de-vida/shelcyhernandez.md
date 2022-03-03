@@ -1,5 +1,6 @@
 
 # Hoja de vida
+![Mi foto](imagenes/shelcyhe.png)
 
 **DATOS PERSONALES**
 
